@@ -1,6 +1,6 @@
 # p2p-videochat
 
-Application which explain about how a simple peer to peer video chat communication is working using WebRTC.
+A simple peer to peer video chat communication using WebRTC.
 
 To start the application,
 Run npm install on the project directory
